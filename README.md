@@ -29,4 +29,4 @@ This repository contains SDKs for:
 1. **Set Up Developer Account:** Register for a [PayPal Developer](https://developer.paypal.com) account to obtain API credentials (Client ID, Secret, etc.).
 2. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/payflow-paypal-sdk.git
+   git clone https://github.com/scanurag/payment-gateway-sdk.git
